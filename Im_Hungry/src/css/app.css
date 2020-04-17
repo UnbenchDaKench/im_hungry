@@ -1,0 +1,15 @@
+/* iOS Cordova Tweak */
+.device-cordova.device-ios {
+  height: 100vh;
+}
+
+/* Your app custom styles here */
+
+.custom-theme {
+--f7-theme-color:#c23838;
+--tab-link-active-color : rgb(194, 56, 56);
+--f7-button-fill-bg-color: #c23838;
+--f7-tabbar-text-color: #c23838;
+--f7-tabbar-link-inactive-color: rgb(194, 56, 56);
+--f7-navbar-link-color: #c23838;
+}
